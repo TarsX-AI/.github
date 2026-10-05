@@ -1,2 +1,3 @@
-# .github
-TarsX organization profile: evidence, business intelligence and focused implementation, with GEO/AEO for hospitals as the current focus.
+# TarsX organization profile
+
+The public TarsX overview is maintained in [profile/README.md](profile/README.md).
