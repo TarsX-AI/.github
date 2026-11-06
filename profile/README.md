@@ -1,8 +1,8 @@
 # TarsX
 
-**Evidence. Clear decisions. Focused implementation.**
+**GEO and AEO consulting.**
 
-TarsX is an AI consulting firm based in Erode, Tamil Nadu. We help organizations improve the accuracy of their public information and how they are found and described across AI answers, search, maps and listings.
+TarsX is a GEO and AEO consulting firm based in Erode, Tamil Nadu. We help businesses understand and improve how they are found and described across AI answers, search, maps and listings.
 
 ## Current focus: GEO + AEO for hospitals
 
@@ -12,13 +12,7 @@ We identify gaps, agree corrections and implementation responsibilities, and ver
 
 GEO means generative engine optimization; AEO means answer engine optimization. These methods support discoverability and accurate answers. They do not guarantee rankings, recommendations or enquiries.
 
-## Supporting work
-
-- **Business intelligence:** research and authorized business or operational audits using aggregate, non-identifying data.
-- **Focused implementation:** select and implement useful tools or workflows for diagnosed needs.
-- **Continuing support:** defined follow-up and measurement where justified by the engagement.
-
-Our assessment methods can also apply to other industries where the need fits. This does not imply completed engagements in those industries.
+Our assessment methods can also apply to other industries where the need fits. This does not imply completed engagements in those industries. We can also work remotely with businesses outside India, and the simplest start is the one-time [AI Answer Check](https://tarsx.ai/aianswercheck).
 
 ## This GitHub organization
 
