@@ -1,23 +1,23 @@
 # TarsX
 
-**GEO and AEO consulting.**
+**GEO, AEO and AI discoverability, with supporting SEO.**
 
-TarsX is a GEO and AEO consulting firm based in Erode, Tamil Nadu. We help businesses understand and improve how they are found and described across AI answers, search, maps and listings.
+We help businesses improve how they are discovered, cited and recommended across AI answers and search.
 
-## Current focus: GEO + AEO for hospitals
+## Ongoing work, tailored to your business
 
-Our current delivery focus is helping hospitals be found and described accurately across AI assistants, search, maps and public listings.
+Our service combines assessment, evidence-led priorities, agreed implementation, verification and continuing improvement. Depending on your business's needs, the work covers website content and technical foundations, accurate business information across public sources, relevant profiles and supporting SEO.
 
-We identify gaps, agree corrections and implementation responsibilities, and verify published updates.
+We implement agreed improvements where access and factual approval permit, and coordinate changes controlled by other parties. Regular reports explain what was done, what changed and the next priorities.
 
-GEO means generative engine optimization; AEO means answer engine optimization. These methods support discoverability and accurate answers. They do not guarantee rankings, recommendations or enquiries.
+The service is available to suitable businesses internationally and across industries. Our current client experience includes healthcare, with each engagement built around that business's customers, market and verified facts.
 
-Our assessment methods can also apply to other industries where the need fits. This does not imply completed engagements in those industries. We can also work remotely with businesses outside India, and the simplest start is the one-time [AI Answer Check](https://tarsx.ai/aianswercheck).
+GEO means generative engine optimization; AEO means answer engine optimization.
 
 ## This GitHub organization
 
-This space is for tools and documentation approved for public release. Proprietary assessment methods remain private. Client records, private operating files, credentials and unpublished assessments belong in private workspaces.
+Public tools and documentation from TarsX.
 
-Based in Erode, India. TARSX LLP.
+TARSX LLP · India · LLPIN ACO-0297
 
-[Website](https://tarsx.ai) · [Business enquiries](mailto:support@tarsx.ai)
+[Explore the service](https://tarsx.ai/service) · [Website](https://tarsx.ai) · [Business enquiries](mailto:support@tarsx.ai)
